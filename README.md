@@ -4,7 +4,9 @@ Topic 7: UT:CS Student profiling based on Moodle log data.
 
 
 TEAM:
+
 Matevž Zorec
+
 Farnaz Baksh
 
 
