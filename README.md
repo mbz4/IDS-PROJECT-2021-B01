@@ -41,3 +41,5 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dep
 ```python
 pip install pandas
 ```
+
+*Made with:* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
