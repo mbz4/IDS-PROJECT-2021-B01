@@ -18,12 +18,15 @@ The goals are:
 2. predict the students' final grades in the course, 
 3. discover common activity patterns of the students and create profiles of typical students. 
 
-
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 *Achieving only some of these goals would also help.*
+
+
+### TO-DO List
+
+- [x] extract first names, last name, ID-number, e-mail columns and save them to a csv file: "Student_NAME_ID_link.csv"
+- [x] drop the same columns except ID-number from the gradebook dataset (make a copy)
+- [ ] understand what each columns contains and identify if this information is relevant with regards to our goals
+- [ ] translate/rename all columns
 
 ### Repo Structure
 
