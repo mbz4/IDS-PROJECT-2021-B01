@@ -10,8 +10,7 @@
 
 ## Project Description
 
-* The dataset is a complete log file of activities of ~350 students of the Computer 
-* Programming course in Moodle during one semester (viewing materials, submitting homeworks, solving quizzes, etc.; about 1M entries). 
+* The dataset is a complete log file of activities of ~350 students of the Computer Programming course in Moodle during one semester (viewing materials, submitting homeworks, solving quizzes, etc.; about 1M entries). 
 
 The goals are: 
 1. identify students who may be struggling based on their early activities, 
