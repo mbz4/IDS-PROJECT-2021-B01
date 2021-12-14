@@ -24,7 +24,7 @@ Our main goals are:
 * No raw data stored / shown in repo.
 * If data shown, data anonymised.
 * *jupyter notebooks, csv & pdfs*
-
+* important: we wrote our own parser-translater that went thru all log files and translated them to English
 ### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dependencies.
