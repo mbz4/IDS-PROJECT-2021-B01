@@ -40,9 +40,9 @@ Our main goals are:
 
 [Moodle: ML backend (github)](https://github.com/moodlehq/moodle-mlbackend-python/tree/master/moodlemlbackend)
 
-[Mark Glynn - Predicting student performance through Moodle - iMoot16](https://www.youtube.com/watch?v=38PdRMV_ci0)
+[Mark Glynn - Predicting student performance through Moodle - iMoot16  (youtube)](https://www.youtube.com/watch?v=38PdRMV_ci0)
 
-[How to predict students' performance?](https://www.youtube.com/watch?v=1V_gEXy2dkk)
+[How to predict students' performance? (youtube)](https://www.youtube.com/watch?v=1V_gEXy2dkk)
 
 
 ### Installation
