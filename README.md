@@ -31,6 +31,14 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dep
 
 ```python
 pip install pandas
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install google_translator 
+pip install multiprocessing.dummy
+pip install sklearn
+pip install matplotlib
+pip install threading
 ```
 
 [get pip install dir windows](https://stackoverflow.com/questions/49028533/pip-packages-path-windows/49028561)
