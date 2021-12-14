@@ -25,7 +25,18 @@ Our main goals are:
 * If data shown, data anonymised.
 * *jupyter notebooks, csv & pdfs*
 * important: we wrote our own parser-translater that went thru all log files and translated them to English
+
+### Key References
+
+[RFC model setup inspiration from Team A3 (github)](https://github.com/MariliisMalahhov/IDS2021-A3-Moodle-Analysis)
+[Are Working Habits Different Between Well-Performing and at-Risk Students in Online Project-Based Courses?](https://dl.acm.org/doi/pdf/10.1145/3430665.3456320)
+[Moodle early performance prediction (github)](https://github.com/moisesriestra/moodle-early-performance-prediction)
+[Using LMS Activity Logs to Predict Student Failure with Random Forest Algorithm](https://openbooks.ffzg.unizg.hr/index.php/FFpress/catalog/download/39/51/2024?inline=1)
+[Moodle: Using Analytics, Students at risk of dropping out](https://docs.moodle.org/311/en/Using_analytics)
+[Moodle: ML backend (github)](https://github.com/moodlehq/moodle-mlbackend-python/tree/master/moodlemlbackend)
+
 ### Installation
+
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dependencies.
 
